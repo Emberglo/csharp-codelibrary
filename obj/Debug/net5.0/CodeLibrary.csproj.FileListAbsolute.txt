@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.exe
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.deps.json
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.runtimeconfig.json
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.runtimeconfig.dev.json
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.dll
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\ref\CodeLibrary.dll
+C:\source\codeworks\week10\CodeLibrary\bin\Debug\net5.0\CodeLibrary.pdb
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.csprojAssemblyReference.cache
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.AssemblyInfo.cs
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.dll
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\ref\CodeLibrary.dll
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.pdb
+C:\source\codeworks\week10\CodeLibrary\obj\Debug\net5.0\CodeLibrary.genruntimeconfig.cache
